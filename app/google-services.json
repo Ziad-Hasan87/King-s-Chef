@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248668821173",
+    "project_id": "the-king-s-chefs",
+    "storage_bucket": "the-king-s-chefs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248668821173:android:2cadfd6ee27b74170cd0fc",
+        "android_client_info": {
+          "package_name": "com.example.kingschefs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhY3nMT4JMMZY8EO0Nw76pOjcENP00Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
